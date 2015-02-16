@@ -23,3 +23,7 @@
 .pull-right {
     float: right;
 }
+
+#other_points li {
+	text-align: center;
+}
