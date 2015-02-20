@@ -37,12 +37,12 @@ video_embed_url: "https://www.youtube.com/v/D1L3o88GKew"
 use_video_placeholder: true
 
 # Payment service
-payment_service: 'amazon'
+payment_service: 'wepay'
 
 # Wepay settings
-wepay_client_id: "YOUR_WEPAY_CLIENT_ID"
-wepay_secret_key: "YOUR_WEPAY_SECRET_KEY"
-wepay_access_token: "YOUR_WEPAY_ACCESS_TOKEN"
+wepay_client_id: "161269"
+wepay_secret_key: "add2936ca2"
+wepay_access_token: "STAGE_2aa14116754fb8148d2f0e4a2560dd029970a096587e10989cd7e9148ec04e39"
 
 # Amazon settings -- you'll need an Amazon Payments account, sign up here --> http://bit.ly/SGksTv
 
